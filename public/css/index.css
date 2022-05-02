@@ -1,0 +1,15 @@
+html body {
+  background-color: bisque;
+}
+
+html body #wrapper {
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  background-color: azure;
+}
+
+html body #wrapper #border {
+  margin: 10px;
+}
+/*# sourceMappingURL=index.css.map */
