@@ -1,12 +1,12 @@
 html body {
-  background-color: black;
+  background-color: bisque;
 }
 
 html body #wrapper {
   -webkit-box-pack: center;
       -ms-flex-pack: center;
           justify-content: center;
-  background-color: bisque;
+  background-color: azure;
   -webkit-box-sizing: border-box;
           box-sizing: border-box;
 }
@@ -23,7 +23,8 @@ html body #wrapper #border h1 {
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
-html body #wrapper #border #movies_list {
-  background-color: lawngreen;
+html body #wrapper #border h1 p {
+  background-color: blue;
+  text-align: center;
 }
 /*# sourceMappingURL=index.css.map */
